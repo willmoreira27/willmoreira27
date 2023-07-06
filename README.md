@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willmoreira27
 - 👀 I’m interested in learn new things to be able to evolve.
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently learning CyberSecurity and Full Stack
 - 💞️ I’m looking to collaborate on developing and learn every more.
 - 📫 How to reach me, contact me on e-mail willmoreirasouza27@gmail.com
 
