@@ -18,3 +18,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willmoreira27&theme=aura&show_icons=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=willmoreira27&theme=aura&show_icons=true)
+
+## Badges
+
+<div align="left">
+   <img height="80" width="80" title="Organização de estudos com Roadmap DIO e o Notion" src="https://github.com/willmoreira27/willmoreira27/assets/137202537/532a0a11-bd87-4dbf-963e-4d44f0f6eb80">
+   <img height="80" width="80" title="Versionamento de Código com Git e GitHub"src="https://github.com/willmoreira27/willmoreira27/assets/137202537/72029701-dd9f-4216-a8c2-67c6efe77561">
+   <img height="80" width="80" title="Projeto de Open Source no GitHUb"src="https://github.com/willmoreira27/willmoreira27/assets/137202537/daf83653-13e9-455e-884f-a645c3eb7bad" >
+   <img height="80" width="80" title="Criação de Portfólio" src="https://github.com/willmoreira27/willmoreira27/assets/137202537/08931222-11f6-40e5-952f-fdeea666126c" >
+</div><!-- ![Organizando seus Estudos com os Roadmaps DIO e o Notion](https://github.com/willmoreira27/willmoreira27/assets/137202537/532a0a11-bd87-4dbf-963e-4d44f0f6eb80)
+![image](https://github.com/willmoreira27/willmoreira27/assets/137202537/72029701-dd9f-4216-a8c2-67c6efe77561) 
+![image](https://github.com/willmoreira27/willmoreira27/assets/137202537/fe13ad86-78a0-4233-a7a1-f52dd93028f7)
+![image](https://github.com/willmoreira27/willmoreira27/assets/137202537/08931222-11f6-40e5-952f-fdeea666126c)
+![image](https://github.com/willmoreira27/willmoreira27/assets/137202537/daf83653-13e9-455e-884f-a645c3eb7bad)
+
+
+
+
