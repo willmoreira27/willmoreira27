@@ -15,8 +15,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willmoreira27&theme=aura&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=willmoreira27&theme=aura&show_icons=true)
-
 ## Badges
 
 <div align="left">
